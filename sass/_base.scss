@@ -39,9 +39,4 @@ body {
     [center-end]
     minmax(6rem, 1fr)
     [full-end];
-
-  & > * {
-    padding: 0;
-    font-size: 3rem;
-  }
 }
